@@ -1,6 +1,6 @@
 ---
-title: Eben on the links!
-subtitle: Something
+title: Wizkid Releases Joro
+subtitle: Maddd song!
 category:
   - About Awake
 author: Eben
