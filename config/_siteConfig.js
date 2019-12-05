@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Latest 9ja',
+  tagline: 'Music and Entertainment Website',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -19,26 +19,32 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
-      link: '/about'
+      name: 'Music',
+      link: '/music'
+    },
+    {
+      name: 'Video',
+      link: '/video'
+    },
+    {
+      name: 'Mixtapes',
+      link: '/mixtapes'
+    },
+    {
+      name: 'Top 20 Songs',
+      link: '/top-20'
+    },
+    {
+      name: 'News',
+      link: '/news'
+    },
+    {
+      name: 'Sport',
+      link: '/categories'
     },
     {
       name: 'Contact',
       link: '/contact'
-    },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'http://awake-premium-lp.danielkelly.io/',
-      target: '_blank'
     }
   ],
   hero: {
@@ -61,7 +67,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'latest-9ja' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe

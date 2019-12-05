@@ -3,8 +3,14 @@
     {{ $siteConfig.siteName }} &copy; {{ new Date().getFullYear() }} - All
     Rights Reserved
     <br />
-    Made with <span style="color: #e25555;">&#9829;</span> with Nuxt.js and
-    Netlify
+    Crafted with <span style="color: #e25555;">&#9829;</span> by
+    <a href="https://eben.com.ng" title="Eben Web Krafts">Eben</a>
+    <br />
+    <small style="font-size: 0.6em">
+      Shoutout to
+      <a href="https://twitter.com/danielkelly_io">danielkelly.io</a>
+      for this awesome template
+    </small>
   </footer>
 </template>
 
@@ -17,7 +23,7 @@ export default {
 <style scoped>
 footer {
   background: #eee;
-  padding: 20px 10px;
+  padding: 15px 10px;
   text-align: center;
   transition: 0.5s ease all;
 }

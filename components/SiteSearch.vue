@@ -28,8 +28,8 @@
           >
             <nuxt-link :to="`/${match.slug}`">
               {{ match.title }}
+              <small class="match-snippet" v-html="match.snippet"></small>
             </nuxt-link>
-            <small class="match-snippet" v-html="match.snippet"></small>
           </li>
         </div>
 
@@ -164,12 +164,13 @@ export default {
   padding: 10px;
   position: absolute;
   top: 100%;
-  right: 0;
+  right: 50px;
   width: 250px;
 }
 .match-snippet {
   font-size: 0.7em;
   display: block;
+  color: grey;
 }
 </style>
 <style>

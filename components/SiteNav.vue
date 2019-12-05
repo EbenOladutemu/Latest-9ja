@@ -52,6 +52,9 @@ import HamburgerButton from '~/components/HamburgerButton'
 export default {
   name: 'SiteNav',
   components: { SiteSearch, HamburgerButton },
+  props: {
+    hideNav: Boolean
+  },
   data() {
     return {
       active: false
