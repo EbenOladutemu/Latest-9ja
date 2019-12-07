@@ -39,7 +39,7 @@ export default {
       link: '/news'
     },
     {
-      name: 'Sport',
+      name: 'Categories',
       link: '/categories'
     },
     {

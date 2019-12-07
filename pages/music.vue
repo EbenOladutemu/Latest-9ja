@@ -99,7 +99,7 @@ import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
-      title: `Music+ | ${this.$siteConfig.siteName}`
+      title: `Music | ${this.$siteConfig.siteName}`
     }
   },
   components: { QuoteCard }
