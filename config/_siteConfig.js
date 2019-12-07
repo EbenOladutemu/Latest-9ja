@@ -67,7 +67,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'latest-9ja' // 'blog-danielkelly-io'
+    siteShortName: 'latest9ja' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
