@@ -66,6 +66,7 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700&display=swap');
 .navbar-item img {
   max-height: 2rem;
 }
