@@ -58,6 +58,13 @@ export default {
   props: {
     hideNav: Boolean
   },
+  head () {
+    return {
+      link: [
+        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto&display=swap' }
+      ]
+    }
+  },
   data() {
     return {
       active: false

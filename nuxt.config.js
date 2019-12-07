@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import path from 'path'
 import glob from 'glob'
 import head from './config/head'
