@@ -10,8 +10,8 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Latest 9ja',
-  tagline: 'Music and Entertainment Website',
-  featureImage: '/uploads/home-hero.jpg',
+  tagline: 'Music and Entertainment Zone',
+  featureImage: '/uploads/home-header.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,

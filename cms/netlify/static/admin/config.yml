@@ -4,7 +4,7 @@ backend:
 # This line should *not* be indented
 media_folder: "assets/uploads" # Media files will be stored in the repo under images/uploads
 public_folder: "uploads" # The src attribute for uploaded media will begin with /images/uploads
-site_url: https://awake-template.netlify.com
+site_url: https://latest9ja.com.ng
 logo_url: https://awake-template.netlify.com/logo-frames/logo-f0.svg
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
@@ -17,7 +17,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Category", name: "category", widget: "relation", collection: "categories", searchFields: "name", valueField: "name", multiple: true}
-      - {label: "Author", name: "author", widget: "string", default: "Daniel Kelly"}
+      - {label: "Author", name: "author", widget: "string", default: "Eben"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featureImage", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}

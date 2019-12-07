@@ -1,10 +1,10 @@
 <template>
-  <form>
+  <form netlify>
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
       <div class="control has-icons-left">
-        <input class="input is-medium" type="email" placeholder="John Smith" />
+        <input class="input is-medium" type="email" placeholder="Enter Your Name" required>
         <span class="icon is-small is-left">
           <font-awesome-icon icon="user" />
         </span>
@@ -17,7 +17,8 @@
         <input
           class="input is-medium"
           type="email"
-          placeholder="you@email.com"
+          placeholder="your@email.com"
+          required
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="envelope" />
@@ -32,6 +33,7 @@
           class="input is-medium"
           type="email"
           placeholder="Brief Summary"
+          required
         />
         <span class="icon is-small is-left">
           <font-awesome-icon icon="briefcase" />
@@ -46,6 +48,7 @@
           class="textarea"
           placeholder="Detailed description of your comment, request, etc"
           rows="8"
+          required
         ></textarea>
       </div>
     </div>

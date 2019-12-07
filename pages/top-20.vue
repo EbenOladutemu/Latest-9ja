@@ -3,7 +3,7 @@
     <site-hero
       title="Top 20 Songs"
       subtitle="As E Dey Hot"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/top-20.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

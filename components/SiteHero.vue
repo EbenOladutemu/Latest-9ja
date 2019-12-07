@@ -154,4 +154,7 @@ export default {
     text-shadow: 1px 1px 2px white;
   }
 }
+.container {
+  top: 30px;
+}
 </style>

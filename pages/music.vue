@@ -3,7 +3,7 @@
     <site-hero
       title="Music"
       subtitle="Latest Jams"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/no-music-no-life.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -11,7 +11,7 @@
           <h3>Hits and Records</h3>
           <p>
             <strong>
-              Edit this page in<code>/pages/about.vue</code>to fit your needs.
+              Pages are still under, construction awaiting content...
             </strong>
           </p>
           <p>
@@ -87,7 +87,7 @@
 
       <template v-slot:sidebar>
         <h3 class="subtitle is-4">
-          Related Music
+          Latest Post
         </h3>
         <posts-grid :per-row="1" :number="2" />
       </template>

@@ -3,7 +3,7 @@
     <site-hero
       title="Video"
       subtitle="Watch"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/video-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

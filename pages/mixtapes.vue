@@ -3,7 +3,7 @@
     <site-hero
       title="Mixtapes"
       subtitle="From your favourite artists and hits"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/mixtapes.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>

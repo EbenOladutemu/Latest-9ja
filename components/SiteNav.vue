@@ -1,3 +1,5 @@
+<!-- prettier-ignore -->
+/* eslint-disable */
 <template>
   <nav
     class="navbar has-shadow is-fixed-top"
@@ -6,13 +8,14 @@
   >
     <div class="navbar-brand">
       <nuxt-link class="navbar-item" to="/">
-        <site-logo v-if="$siteConfig.logo === 'logo-component'" />
+        <h3 style="font-size: 35px; font-family: 'Cabin Sketch', cursive">Latest 9ja</h3>
+        <!-- <site-logo v-if="$siteConfig.logo === 'logo-component'" />
         <img
           v-else
           :src="$siteConfig.logo"
           :alt="$siteConfig.siteName"
           class="logo"
-        />
+        /> -->
       </nuxt-link>
       <hamburger-button @click="active = !active" />
     </div>

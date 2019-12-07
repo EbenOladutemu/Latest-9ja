@@ -1,11 +1,11 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <site-hero :title="title" :subtitle="subtitle" :image="featureImage">
+    <site-hero :title="title" :subtitle="subtitle" :image="featureImage" class="site-hero">
       <button
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
       >
-        Subscribe To Newsletter
+        Subscribe To Our Newsletter
       </button>
     </site-hero>
     <main-section theme="one-column">
@@ -48,5 +48,8 @@ export default {
 <style>
 .home-page .under-subtitle {
   border-top: none;
+}
+.site-hero {
+  margin-top: 2em!important;
 }
 </style>

@@ -4,11 +4,11 @@
     Rights Reserved
     <br />
     Crafted with <span style="color: #e25555;">&#9829;</span> by
-    <a href="https://eben.com.ng" title="Eben Web Krafts">Eben</a>
+    <a href="https://eben.com.ng" title="Eben Web Krafts" target="_blank">Eben</a>
     <br />
     <small style="font-size: 0.6em">
       Shoutout to
-      <a href="https://twitter.com/danielkelly_io">danielkelly.io</a>
+      <a href="https://twitter.com/danielkelly_io" target="_blank">danielkelly.io</a>
       for this awesome template
     </small>
   </footer>
