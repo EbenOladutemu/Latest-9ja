@@ -1,3 +1,4 @@
+<!-- prettier-ignore -->
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
@@ -17,7 +18,14 @@
           </p>
 
           <h3>Teni - Billionare</h3>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/1EDqTOUzCVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe
+            width="560"
+            height="515"
+            src="https://www.youtube.com/embed/1EDqTOUzCVU"
+            frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+            </iframe>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
             eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
@@ -83,13 +91,17 @@
   </div>
 </template>
 <script>
-import QuoteCard from '~/components/cards/QuoteCard'
 export default {
   head() {
     return {
       title: `Video | ${this.$siteConfig.siteName}`
     }
-  },
-  components: { QuoteCard }
+  }
 }
 </script>
+
+<style scoped>
+  iframe{
+    height: 400px;
+  }
+</style>
