@@ -1,5 +1,6 @@
 ---
-name: Third Party Integrations
-image: https://picsum.photos/1800/1801
+name: Videos
+image: 'https://picsum.photos/1800/1801'
+description: Videos
 ---
-Extend the functionality of Awake with third party integrations
+
