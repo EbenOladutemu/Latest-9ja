@@ -1,5 +1,6 @@
 ---
-name: About Awake
+name: Music
 image: /logo.svg
+description: Music
 ---
-All about the Awake Nuxt Template
+
