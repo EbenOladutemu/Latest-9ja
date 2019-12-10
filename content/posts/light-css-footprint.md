@@ -1,5 +1,5 @@
 ---
-title: Light CSS Footprint
+title: Burna Boy Nominated for Grammys
 subtitle: Purge CSS Bundles Only the Required CSS
 category:
   - About Awake
