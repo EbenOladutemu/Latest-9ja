@@ -17,6 +17,10 @@ The song was produced by Kiddominant.
 
 Listen to the snippet here.
 
-<audio controls src=""></audio>
+<audio controls>
+
+<source src="https://justnaija.com/music/download-mp3/1645-davido-fall-remix-ft-cardi-b/download">
+
+</audio>
 
 Download [here](https://justnaija.com/music/download-mp3/1645-davido-fall-remix-ft-cardi-b/download)
