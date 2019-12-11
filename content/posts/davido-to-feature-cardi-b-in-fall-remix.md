@@ -1,6 +1,6 @@
 ---
 title: Davido to feature Cardi B in Fall Remix
-subtitle: Fall Remox set to be released
+subtitle: Fall Remix set to be released
 category:
   - About Awake
 author: Eben
