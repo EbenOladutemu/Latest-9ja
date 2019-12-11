@@ -2,7 +2,7 @@
 title: Davido to feature Cardi B in Fall Remix
 subtitle: Fall Remix set to be released
 category:
-  - About Awake
+  - Music
 author: Eben
 date: 2019-12-07T05:04:09.096Z
 featureImage: /uploads/watch-cardi-b-dance-to-her-cover-of-davido’s-“fall”.jpg
