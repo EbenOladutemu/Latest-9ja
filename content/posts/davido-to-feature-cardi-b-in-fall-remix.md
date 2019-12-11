@@ -19,7 +19,7 @@ Listen to the snippet here.
 
 <audio controls>
 
-<source src="https://justnaija.com/music/download-mp3/1645-davido-fall-remix-ft-cardi-b/download">
+<source src="https://justnaija.com/music/download-mp3/1645-davido-fall-remix-ft-cardi-b/download" type="audio/mp3">
 
 </audio>
 
