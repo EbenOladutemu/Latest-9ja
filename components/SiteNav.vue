@@ -1,5 +1,5 @@
-<!-- prettier-ignore -->
-/* eslint-disable */
+/* eslint-disable indent */
+/* eslint-disable prettier/prettier */
 <template>
   <nav
     class="navbar has-shadow is-fixed-top"
@@ -57,13 +57,6 @@ export default {
   components: { SiteSearch, HamburgerButton },
   props: {
     hideNav: Boolean
-  },
-  head () {
-    return {
-      link: [
-        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto&display=swap' }
-      ]
-    }
   },
   data() {
     return {
