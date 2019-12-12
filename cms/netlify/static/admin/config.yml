@@ -20,7 +20,7 @@ collections:
       - {label: "Author", name: "author", widget: "string", default: "Eben"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featureImage", widget: "image"}
-      - {label: "Music File", name: "file", widget: "file", required: "false"}
+      - {label: "Music File", name: "file", widget: "file"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "categories"
     label: "Categories"
@@ -30,4 +30,4 @@ collections:
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Description", name: "description", widget: "markdown", required: "false"}
+      - {label: "Description", name: "description", widget: "markdown"}
