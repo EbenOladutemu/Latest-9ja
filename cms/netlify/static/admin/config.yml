@@ -20,8 +20,11 @@ collections:
       - {label: "Author", name: "author", widget: "string", default: "Eben"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "featureImage", widget: "image"}
-      - {label: "Music File", name: "manual_pdf", widget: "file"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Music File", name: "file", widget: "file", required: "false"}
+      - {
+        label: "Body", name: "body", widget: "markdown",
+        fields: - {label: "Music File", name: "file", widget: "file", required: "false"}
+        }
   - name: "categories"
     label: "Categories"
     folder: "content/categories"
@@ -30,4 +33,4 @@ collections:
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Description", name: "description", widget: "markdown", required: "false"}
