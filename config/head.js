@@ -47,6 +47,11 @@ export default {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
       defer: true,
       id: 'netlify-identity-widget-script'
+    },
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+      async: true,
+      'data-ad-client': 'ca-pub-8395629923299240'
     }
   ]
 }
