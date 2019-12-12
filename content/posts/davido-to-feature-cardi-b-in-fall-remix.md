@@ -6,7 +6,7 @@ category:
 author: Eben
 date: 2019-12-07T05:04:09.096Z
 featureImage: /uploads/watch-cardi-b-dance-to-her-cover-of-davido’s-“fall”.jpg
-manual_pdf: /uploads/bianule.mp3
+file: /uploads/airboy_-_ayepo__prod_phantom_-1-.mp3
 ---
 Nigerian singer-songwriter, Davido comes through with the remix of his smash hit, “Fall” featuring American rapper, Cardi B.
 
@@ -19,3 +19,7 @@ The song was produced by Kiddominant.
 Listen to the snippet here.
 
 Download [here](https://justnaija.com/music/download-mp3/1645-davido-fall-remix-ft-cardi-b/download)
+
+
+
+youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/1EDqTOUzCVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
