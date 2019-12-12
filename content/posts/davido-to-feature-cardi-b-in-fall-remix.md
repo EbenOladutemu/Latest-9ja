@@ -20,4 +20,4 @@ Listen to the snippet here.
 
 Download [here](https://justnaija.com/music/download-mp3/1645-davido-fall-remix-ft-cardi-b/download)
 
-\[![](http://img.youtube.com/vi/1EDqTOUzCVU/0.jpg)](http://www.youtube.com/watch?v=1EDqTOUzCVU)
+\[![](https://img.youtube.com/vi/1EDqTOUzCVU/0.jpg)](https://www.youtube.com/watch?v=1EDqTOUzCVU)
