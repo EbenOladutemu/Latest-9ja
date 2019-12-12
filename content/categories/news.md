@@ -1,6 +1,6 @@
 ---
-title: News
-name: News
+title: Gists
+name: Gists
 image: /uploads/news-hero.jpg
 ---
 
