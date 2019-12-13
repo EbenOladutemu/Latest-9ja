@@ -1,6 +1,6 @@
 ---
+title: Videos
 name: Videos
-image: 'https://picsum.photos/1800/1801'
-description: Videos
+image: /uploads/video-hero.jpg
 ---
 
