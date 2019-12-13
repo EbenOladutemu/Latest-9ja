@@ -16,10 +16,4 @@ This most anticipated remix yet is set to drop just few weeks after the release 
 
 The song was produced by Kiddominant.
 
-Listen to the snippet here.
-
-Download [here](https://justnaija.com/music/download-mp3/1645-davido-fall-remix-ft-cardi-b/download)
-
-\[![](https://img.youtube.com/vi/1EDqTOUzCVU/0.jpg)]
-
-youtube 1EDqTOUzCVU
+Download to the snippet [here](https://justnaija.com/music/download-mp3/1645-davido-fall-remix-ft-cardi-b/download)
