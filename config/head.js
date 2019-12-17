@@ -13,6 +13,7 @@ export default {
     },
     {
       src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+      'data-n-head': false,
       async: true,
       'data-ad-client': 'ca-pub-8395629923299240'
     }
