@@ -5,6 +5,16 @@ export default {
     {
       src: 'https://www.googletagmanager.com/gtag/js?id=UA-154479113-1',
       async: true
+    },
+    {
+      src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
+      defer: true,
+      id: 'netlify-identity-widget-script'
+    },
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+      async: true,
+      'data-ad-client': 'ca-pub-8395629923299240'
     }
   ],
   title: process.env.npm_package_name || '',
@@ -47,18 +57,5 @@ export default {
     { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700&display=swap' },
     { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Montserrat&display=swap&subset=latin-ext' },
     { rel: 'icon', type: 'image/x-icon', href: '/logo-frames/latest-9ja.png' }
-  ],
-  script: [
-    {
-      src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
-      defer: true,
-      id: 'netlify-identity-widget-script'
-    },
-    {
-      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
-      async: true,
-      'data-ad-client': 'ca-pub-8395629923299240'
-    },
-    
   ]
 }

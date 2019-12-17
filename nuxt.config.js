@@ -1,3 +1,4 @@
+/* eslint-disable indent */
 /* eslint-disable prettier/prettier */
 import path from 'path'
 import glob from 'glob'
@@ -18,6 +19,14 @@ export default {
   /*
    ** Headers of the page
    */
+  hooks: {
+    'generate:page': (page) => {
+      page.html = modifyHtml(page.html)
+    },
+    'render:route': (url, page, { req, res }) => {
+      page.html = modifyHtml(page.html)
+    }
+  },
   head: head,
   generate: {
     routes: otherRoutes.concat(getDynamicPaths(routeMap))
@@ -45,6 +54,12 @@ export default {
  * Create an array of URLs from a list of files
  * @param {*} urlFilepathTable
  */
+
+const modifyHtml = (html) => {
+  // Remove data-n-head="true"
+  html = html.replace(/data-n-head="true" /g, '')
+}
+
 function getDynamicPaths(urlFilepathTable) {
   return [].concat(
     ...Object.keys(urlFilepathTable).map((url) => {
