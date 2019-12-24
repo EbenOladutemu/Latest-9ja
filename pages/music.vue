@@ -1,5 +1,7 @@
+<!-- eslint-disable vue/html-indent -->
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
+    <div class="">Home Music</div>
     <site-hero
       title="Music"
       subtitle="Latest Jams"
@@ -11,7 +13,7 @@
           <h3>Hits and Records</h3>
           <p>
             <strong>
-              Pages are still under construction, awaiting content...
+              Pages are still under construction, awaiting content
             </strong>
           </p>
         </div>

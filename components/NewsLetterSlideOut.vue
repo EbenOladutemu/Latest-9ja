@@ -88,4 +88,11 @@ export default {
     }
   }
 }
+.close {
+  color: #fff;
+  opacity: 1;
+}
+.close:hover {
+  color: #fff;
+}
 </style>

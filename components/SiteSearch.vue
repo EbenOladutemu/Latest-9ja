@@ -179,4 +179,7 @@ export default {
   padding: 0 3px;
   display: inline-block;
 }
+label {
+  margin-bottom: 0rem;
+}
 </style>

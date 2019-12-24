@@ -7,6 +7,7 @@ import plugins from './config/plugins'
 import build from './config/build'
 import css from './config/css'
 import { routeMap, otherRoutes } from './config/generate'
+// import bulmaCarousel from '~bulma-carousel/dist/js/bulma-carousel.min.js'
 
 export default {
   mode: 'universal',

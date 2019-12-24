@@ -1,6 +1,10 @@
-/* eslint-disable indent */
-/* eslint-disable prettier/prettier */
+<!-- eslint-disable vue/html-indent -->
+<!-- eslint-disable vue/html-closing-bracket-newline -->
+<!-- eslint-disable vue/max-attributes-per-line -->
+<!-- eslint-disable indent -->
+<!-- eslint-disable prettier/prettier -->
 <template>
+<header>
   <nav
     class="navbar has-shadow is-fixed-top"
     role="navigation"
@@ -8,7 +12,13 @@
   >
     <div class="navbar-brand">
       <nuxt-link class="navbar-item" to="/">
-        <h3 style="font-size: 35px; font-family: 'Cabin Sketch', cursive">Latest 9ja</h3>
+        <h3 class="d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block"
+        style="font-size: 35px; font-family: 'Cabin Sketch', cursive">
+          Latest 9ja
+        </h3>
+        <h3 class="d-block d-sm-none d-none d-sm-block d-md-none" style="font-size: 35px; font-family: 'Cabin Sketch', cursive">
+          Latest 9ja
+        </h3>
         <!-- <site-logo v-if="$siteConfig.logo === 'logo-component'" />
         <img
           v-else
@@ -17,7 +27,7 @@
           class="logo"
         /> -->
       </nuxt-link>
-      <hamburger-button @click="active = !active" />
+      <!-- <hamburger-button @click="active = !active" /> -->
     </div>
 
     <div
@@ -48,6 +58,38 @@
       </ul>
     </div>
   </nav>
+  <nav class="bg-light d-block d-sm-none d-none d-sm-block d-md-none" style="margin-top: 70px">
+    <div
+      :class="{
+        'nav': true,
+        'is-active': active
+      }"
+      style="justify-content: center"
+    >
+      <ul class="nav" style="justify-content: center">
+        <li
+          v-for="item in $siteConfig.mainMenu"
+          :key="item.link"
+          class="nav-item"
+          style="text-align: center"
+          @click="active = false"
+        >
+          <component
+            :is="item.link.startsWith('http') ? 'a' : 'nuxt-link'"
+            :href="item.link"
+            :to="item.link"
+            :target="item.target ? item.target : '_self'"
+          >
+            {{ item.name }}
+          </component>
+        </li>
+        <li class="nav-item site-search-wrapper">
+          <site-search />
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
 </template>
 <script>
 import SiteSearch from '~/components/SiteSearch'
@@ -66,7 +108,9 @@ export default {
 }
 </script>
 <style lang="scss" scoped>
-@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700&display=swap');
+.navbar {
+  padding: 0rem 1rem!important;
+}
 .navbar-item img {
   max-height: 2rem;
 }
@@ -82,5 +126,11 @@ export default {
 
 .navbar-menu a {
   display: block;
+}
+.nav-item {
+  padding: 10px;
+}
+a {
+  text-decoration: none;
 }
 </style>
