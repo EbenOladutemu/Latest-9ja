@@ -81,10 +81,14 @@ export default {
 }
 a {
   text-decoration: none!important;
+  color: #068744;
 }
 .new-post {
   font-size: 32px;
   font-weight: bold;
   margin-bottom: 10px;
+}
+.button .is-primary {
+  color:#068744!important;
 }
 </style>

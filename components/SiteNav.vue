@@ -11,14 +11,14 @@
     aria-label="main navigation"
   >
     <div class="navbar-brand">
-      <nuxt-link class="navbar-item" to="/">
-        <h3 class="d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block"
-        style="font-size: 35px; font-family: 'Cabin Sketch', cursive">
-          Latest 9ja
-        </h3>
-        <h3 class="d-block d-sm-none d-none d-sm-block d-md-none" style="font-size: 35px; font-family: 'Cabin Sketch', cursive">
-          Latest 9ja
-        </h3>
+      <nuxt-link class="navbar-item pt-0 pb-0" to="/">
+      <!-- Large and medium device screens -->
+        <img class="d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block" src="/logo-frames/latest-9ja.png" alt="Latest 9ja">
+        <!-- Small device screens -->
+        <div class="d-block d-sm-none d-none d-sm-block d-md-none hide-logo">
+          <img src="/logo-frames/latest-9ja.png" alt="Latest 9ja">
+          <site-search />
+        </div>
         <!-- <site-logo v-if="$siteConfig.logo === 'logo-component'" />
         <img
           v-else
@@ -31,12 +31,13 @@
     </div>
 
     <div
+      class="show-nav"
       :class="{
         'navbar-menu': true,
         'is-active': active
       }"
     >
-      <ul class="navbar-end">
+      <ul class="navbar-end show-nav-list">
         <li
           v-for="item in $siteConfig.mainMenu"
           :key="item.link"
@@ -83,9 +84,6 @@
             {{ item.name }}
           </component>
         </li>
-        <li class="nav-item site-search-wrapper">
-          <site-search />
-        </li>
       </ul>
     </div>
   </nav>
@@ -112,24 +110,54 @@ export default {
   padding: 0rem 1rem!important;
 }
 .navbar-item img {
-  max-height: 2rem;
+  max-height: 3rem ;
+  height: 60px;
+  width: 75px;
 }
 .site-search-wrapper {
   transform: translateX(5px);
-  @media (max-width: 1023px) {
-    display: none;
+  @media (max-width: 767px) {
+    display: block;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .navbar-menu {
+    box-shadow: none!important;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .navbar-menu {
+    margin: auto;
+  }
+}
+@media (min-width: 766px) and (max-width: 1024px) {
+  .show-nav {
+    display: block;
+  }
+}
+@media (min-width: 767px) and (max-width: 1024px) {
+  .show-nav-list {
+    display: flex;
+  }
+}
+@media (min-width: 575px) and (max-width: 767px) {
+  .hide-logo {
+    display: none!important;
   }
 }
 .navbar-burger {
   height: auto;
 }
-
+.navbar-brand {
+  margin-right: auto;
+}
 .navbar-menu a {
   display: block;
 }
 .nav-item {
   padding: 10px;
 }
+
 a {
   text-decoration: none;
 }

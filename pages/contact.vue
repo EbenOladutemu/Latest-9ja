@@ -16,14 +16,8 @@
               <p class="subtitle">
                 How can we be of assistance today?
               </p>
-              <figure class="image is-1by1 ">
-                <opti-image
-                  :src="require('~/assets/uploads/contact-tel.jpg').src"
-                  :srcset="
-                    require('~/assets/uploads/contact-tel.jpg').srcSet
-                  "
-                />
-              </figure>
+              <p>For Music and Video Promotion, Ad Placement and to Submit a post on Latest 9ja</p>
+              <p>Send a mail to </p>
               <br />
               <div class="content">
                 <p>

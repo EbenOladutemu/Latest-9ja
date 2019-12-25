@@ -131,15 +131,17 @@ export default {
 <style lang="scss" scoped>
 .search-wrapper {
   position: relative;
+  display: contents;
   input {
     width: 0;
     opacity: 0;
     transition: 0.5s ease width, 0.5s opacity;
+    animation-direction: normal
   }
   .search-icon {
     position: absolute;
     top: 50%;
-    right: 10px;
+    right: 33px;
     transform: translateY(-50%);
   }
   &.inactive {
@@ -161,10 +163,11 @@ export default {
 }
 .search-results {
   background: white;
-  padding: 10px;
+  padding: 13px;
   position: absolute;
+  z-index: 3;
   top: 100%;
-  right: 50px;
+  right: 35px;
   width: 250px;
 }
 .match-snippet {
@@ -178,6 +181,9 @@ export default {
   background: #eee;
   padding: 0 3px;
   display: inline-block;
+}
+.search-bar {
+  margin-right: 50px;
 }
 label {
   margin-bottom: 0rem;
