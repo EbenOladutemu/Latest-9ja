@@ -20,12 +20,12 @@
               </p>
               <p>For Music and Video Promotion, Ad Placement and to Submit a post on Latest 9ja</p>
               <p>
-                Send a mail to <nuxt-link to="mailto:media@latest9ja.com.ng">media@latest9ja.com.ng</nuxt-link>
+                Send a mail to <a href="mailto:media@latest9ja.com.ng">media@latest9ja.com.ng</a>
               </p>
               <br />
               <p>
                 For more enquiries, please send a mail to
-                <nuxt-link to="mailto:info@latest9ja.com.ng">info@latest9ja.com.ng</nuxt-link>
+                <a href="mailto:info@latest9ja.com.ng">info@latest9ja.com.ng</a>
               </p>
               <div class="content mt-4">
                 <p>
