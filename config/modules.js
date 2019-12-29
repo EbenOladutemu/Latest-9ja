@@ -31,10 +31,10 @@ export const modulesSettings = {
           'faSearch',
           'faEnvelope',
           'faUser',
-          'faBriefcase',
-          'faFacebook',
-          'faTwitter',
-          'faInstagram'
+          'faBriefcase'
+          // 'faFacebook',
+          // 'faTwitter',
+          // 'faInstagram'
         ]
       }
     ]
