@@ -30,7 +30,7 @@
               <div class="content mt-4">
                 <p>
                   Follow us on:
-                  <font-awesome-icon icon="coffee"></font-awesome-icon>
+                  <!-- <font-awesome-icon icon="coffee"></font-awesome-icon>
                   <span>
                     <font-awesome-icon icon="twitter" />
                     <i class="fas fa-twitter"></i>
@@ -42,7 +42,7 @@
                   <span>
                     <font-awesome-icon icon="facebook" />
                     <i class="fas fa-facebook"></i>
-                  </span>
+                  </span> -->
                 </p>
               </div>
             </article>
