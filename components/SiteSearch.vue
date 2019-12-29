@@ -136,7 +136,6 @@ export default {
     width: 0;
     opacity: 0;
     transition: 0.5s ease width, 0.5s opacity;
-    animation-direction: normal
   }
   .search-icon {
     position: absolute;

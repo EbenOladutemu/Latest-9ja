@@ -10,13 +10,19 @@
     role="navigation"
     aria-label="main navigation"
   >
-    <div class="navbar-brand">
+    <div clasNorth s="navbar-brand">
       <nuxt-link class="navbar-item pt-0 pb-0" to="/">
       <!-- Large and medium device screens -->
         <img class="d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block" src="/logo-frames/latest-9ja.png" alt="Latest 9ja">
+        <!-- <h3 style="font-family: 'Cabin Sketch', cursive; font-size: 30px;">
+          Latest 9ja
+        </h3> -->
         <!-- Small device screens -->
         <div class="d-block d-sm-none d-none d-sm-block d-md-none hide-logo">
           <img src="/logo-frames/latest-9ja.png" alt="Latest 9ja">
+          <!-- <h3 style="font-family: 'Cabin Sketch', cursive; font-size: 30px;" class=" hide-logo">
+            Latest 9ja
+          </h3> -->
           <site-search />
         </div>
         <!-- <site-logo v-if="$siteConfig.logo === 'logo-component'" />
@@ -107,10 +113,10 @@ export default {
 </script>
 <style lang="scss" scoped>
 .navbar {
-  padding: 0rem 1rem!important;
+  padding: 0.4rem 1rem!important;
 }
 .navbar-item img {
-  max-height: 3rem ;
+  max-height: 3.5rem ;
   height: 60px;
   width: 75px;
 }
