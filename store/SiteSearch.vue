@@ -28,8 +28,8 @@
           >
             <nuxt-link :to="`/${match.slug}`">
               {{ match.title }}
+              <small class="match-snippet" v-html="match.snippet"></small>
             </nuxt-link>
-            <small class="match-snippet" v-html="match.snippet"></small>
           </li>
         </div>
 
@@ -97,6 +97,7 @@ export default {
             .indexOf(this.query.toLowerCase()) > -1
         )
       })
+
       this.matches = matches.map((match) => {
         match.snippet = this.getMatchSnippet(this.query, match.content)
         return match
@@ -130,6 +131,7 @@ export default {
 <style lang="scss" scoped>
 .search-wrapper {
   position: relative;
+  display: contents;
   input {
     width: 0;
     opacity: 0;
@@ -138,7 +140,7 @@ export default {
   .search-icon {
     position: absolute;
     top: 50%;
-    right: 10px;
+    right: 33px;
     transform: translateY(-50%);
   }
   &.inactive {
@@ -160,15 +162,17 @@ export default {
 }
 .search-results {
   background: white;
-  padding: 10px;
+  padding: 13px;
   position: absolute;
+  z-index: 3;
   top: 100%;
-  right: 0;
+  right: 35px;
   width: 250px;
 }
 .match-snippet {
   font-size: 0.7em;
   display: block;
+  color: grey;
 }
 </style>
 <style>
@@ -176,5 +180,11 @@ export default {
   background: #eee;
   padding: 0 3px;
   display: inline-block;
+}
+.search-bar {
+  margin-right: 5px;
+}
+label {
+  margin-bottom: 0rem;
 }
 </style>

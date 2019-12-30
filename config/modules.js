@@ -31,8 +31,8 @@ export const modulesSettings = {
           'faSearch',
           'faEnvelope',
           'faUser',
-          'faBriefcase'
-          // 'faFacebook',
+          'faBriefcase',
+          'faFan'
           // 'faTwitter',
           // 'faInstagram'
         ]
