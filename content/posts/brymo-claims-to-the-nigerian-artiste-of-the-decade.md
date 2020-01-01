@@ -1,5 +1,5 @@
 ---
-title: Brymo claims to the Nigerian Artiste of the Decade
+title: Brymo claims to be the Nigerian Artiste of the Decade
 subtitle: For real??
 category:
   - Music
