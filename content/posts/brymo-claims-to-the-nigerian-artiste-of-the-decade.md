@@ -6,7 +6,7 @@ category:
   - Gists
 author: Eben
 date: 2020-01-01T05:01:38.174Z
-featureImage: /uploads/brymo.jfif
+featureImage: /uploads/brymo.jpg
 ---
 Super talented music maestro has claimed that he's the artiste of the tweet as seen in a tweet shown below.
 
