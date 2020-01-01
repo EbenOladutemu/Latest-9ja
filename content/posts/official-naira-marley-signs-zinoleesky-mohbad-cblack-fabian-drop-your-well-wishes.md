@@ -1,31 +1,25 @@
 ---
 title: >-
-  REVEALED!! Wizkid Was Expelled From Secondary School For Stealing His Mum’s
-  Gold – Fan Alleges
-subtitle: Wizkid Was Expelled From Secondary School For Stealing His Mum’s Gold
+  This Time Last Year I Was Driving A Stupid Sienna – Zlatan Ibile Thank OBO For
+  Changing His Life
+subtitle: This Time Last Year I Was Driving A Stupid Sienna
 category:
   - Gists
 author: Murray
 date: 2020-01-01T08:57:09.098Z
-featureImage: /uploads/wizkid-main.jpeg
+featureImage: /uploads/zlatan-1-700x663.jpg
 ---
-Well, it is noted that our own Wizkid is one of the fastest rising music stars in Nigeria, rising to an altitude that seemed to be unattainable but yet he did it.
 
-The Starboy, however, has a very rough past, especially his educational background.
 
-The singer dropped out of different Universities while he was pursuing a Tertiary education because of one reason or the other.
+**Nigerian rapper Zlatan Ibile is thankful for all the help DMW boss, Davido brought his way since meeting him just last year.**
 
-### **HIS UNIVERSITY EDUCATION ISSUES**
+The rapper, who recently performed at Davido’s concert which was held last night, shared a testimony of how Davido helped him tremendously.
 
-With reports reaching us, it was learnt that the Starboy was forced to withdraw from **Lagos State University, LASU**, because his CGPA was very poor.
+The ‘Yeye Boyfriend’ crooner narrated how he attended Davido’s show last year in a rickety Sienna vehicle which he parked at a distance away from the venue.
 
-He went ahead to **Lead City university** where he later dropped out voluntarily to focus on his music career.
+He Said:
 
-### **WHY HE WAS EXPELLED FROM SECONDARY SCHOOL**
-
-Now a fan who stated a random music fact about entertainers in the Nigerian music industry has alleged that Wizkid was expelled from Secondary School after **he stole his mom’s gold chain**.
-
-The fan alleged that his mum came to report him to the school’s authorities which led to his expulsion from the school. The fan alleged.
+> “Last year, I was using a stupid Sienna that I had to pack faraway from this venue and had to trek to this event. Thank OBO for changing my life.”
 
 
 
