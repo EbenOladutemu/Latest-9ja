@@ -130,6 +130,7 @@ export default {
 <style lang="scss" scoped>
 .search-wrapper {
   position: relative;
+  display: contents;
   input {
     width: 0;
     opacity: 0;
