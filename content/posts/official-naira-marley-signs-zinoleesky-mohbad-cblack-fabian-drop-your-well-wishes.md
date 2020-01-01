@@ -1,24 +1,38 @@
 ---
 title: >-
-  OFFICIAL!! Naira Marley Signs Zinoleesky, Mohbad, Cblack & Fabian (Drop Your
-  Well Wishes)
-subtitle: 'Naira Marley Signs Zinoleesky, Mohbad, Cblack & Fabian'
+  Happy New Year To All Latest9ja Fam May This Year 2020 Be An Amazing Year For
+  You All
+subtitle: Happy New Year
 category:
   - Gists
 author: Murray
-date: 2020-01-01T07:22:41.238Z
-featureImage: /uploads/download-4.jpeg
+date: 2020-01-01T07:45:41.238Z
+featureImage: /uploads/2020-new-year.jpg
 ---
 
 
-**The CEO of Marlians has added more soldiers to his army has he just sign Zinoleesky, Mohbad, Cblack and Fabian.**
+### **To all loyal fans of Latest9ja at home and abroad – We say Happy New Year To You All**
 
-Naira Marley brought the four artists on stage during Marlians Fest yesterday in Lagos, and later in the day make it official on his social media page.
+We are more than happy that we have scaled through a decade and going to another one with you all.
 
-It was heard from an Insider that the signed artistes has been c0-habitating with **Naira Marley** even before the official signing and they already recorded loads of songs with the Marlian Music Imprint.
+We thank God for sparing our lives to see another year with millions of fans worldwide.
 
-We can all recall than **C Blvck** and Naira Marley now have two songs together, namely; “**[Ogologo](https://www.naijaloaded.com.ng/video/c-black-ft-naira-marley-ogologo-2)**” and “**[Tingasa](https://www.naijaloaded.com.ng/entertainment/naira-marley-lol-ep-review)**” off the LOL EP.
+Special thanks to you all for staying with us on this platform, we appreciate your comments and for always choosing us.
 
-**See Naira Marley’s Tweet Below:**
+As Nigeria’s music and entertainment platform, we are glad to inform you that, all is in place this 2020 to bring to your more interesting **entertainment contents**, **music**, **videos**, **news around the country**,**life-impacting posts**,**inspirational posts** and lots more this year.
 
-![Congratulations to the new Marlians Soldiers!!!!  ](/uploads/photo_2019-12-31-17.27.23-728x173.jpeg)
+We promise you will never encounter any dull moment on latest9ja this 2020.
+
+To all our **music clients**,**corporate brands**,**artistes**,**record label owners**, we thank you for the amazing business relationship in 2019, let’s do it again this year.
+
+Thank you all for everything!!
+
+### **Happy New Year To You All – May This 2020 Be A Fulfilling Year For You**
+
+Whatever you lay your hands on this year shall prosper.
+
+Amen![🙏](https://s.w.org/images/core/emoji/12.0.0-1/svg/1f64f.svg)
+
+
+
+![Congratulations to the new Marlians Soldiers!!!!  ]()
