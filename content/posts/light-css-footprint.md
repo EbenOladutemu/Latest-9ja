@@ -6,7 +6,7 @@ category:
   - Music
 author: Eben
 date: 2019-11-29T17:30:16.858Z
-featureImage: /uploads/burna-boy.jfif
+featureImage: /uploads/maxresdefault.jpg
 ---
 # On November 20, 2019, nominations for the 62nd Grammy Awards were announced at 2:30 pm.
 
