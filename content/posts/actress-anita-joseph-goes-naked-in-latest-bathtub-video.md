@@ -14,8 +14,6 @@ Anita sought to break the internet with the video that appeared to be a snippet 
 
 The voluptuous actress posted the video on her Instagram page with the caption :
 
-> <!--StartFragment-->
->
 > *"Iv represented loads of Brands*\
 > *And am really glad I workd with*\
 > *[@greriviancosmetics](https://www.instagram.com/greriviancosmetics/)Cosmetics*\
@@ -25,9 +23,7 @@ The voluptuous actress posted the video on her Instagram page with the caption :
 > *The best skincare all over the World Gbam*\
 > *If I hear Pim eh I go know weda you be[@realmcfish](https://www.instagram.com/realmcfish/)*\
 > *Have you even followed my biz page[@hourglassfashionworld](https://www.instagram.com/hourglassfashionworld/)*\
-> *Come let me pimp your waist this 2020 🚶‍♂️🚶‍♂️"*
->
-> <!--EndFragment-->
+> *Come let me pimp your waist this 2020 🚶‍♂️🚶‍♂️*
 
 Watch the video below\
 <https://www.instagram.com/p/B609dxPBjpD/?igshid=ssd99b9j7sqw>
