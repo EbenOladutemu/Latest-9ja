@@ -14,14 +14,20 @@ Anita sought to break the internet with the video that appeared to be a snippet 
 
 The voluptuous actress posted the video on her Instagram page with the caption :
 
-> *“Iv represented loads of Brands And am really glad I workd with @greriviancosmetics Cosmetics
-> Bec that brand is owned by my chick
-> @grety*
+> <!--StartFragment-->
 >
-> *And my Deal is over this Jan.*
+> *"Iv represented loads of Brands*\
+> *And am really glad I workd with*\
+> *[@greriviancosmetics](https://www.instagram.com/greriviancosmetics/)Cosmetics*\
+> *Bec that brand is owned by my chick*\
+> *[@grety](https://www.instagram.com/grety/)💋💋💋❤️*\
+> *And my Deal is over this Jan 🙋‍♀️🍸*\
+> *The best skincare all over the World Gbam*\
+> *If I hear Pim eh I go know weda you be[@realmcfish](https://www.instagram.com/realmcfish/)*\
+> *Have you even followed my biz page[@hourglassfashionworld](https://www.instagram.com/hourglassfashionworld/)*\
+> *Come let me pimp your waist this 2020 🚶‍♂️🚶‍♂️"*
 >
-> *The best skincare all over the World Gbam If I hear Pim eh I go know weda you be @realmcfish Have you even followed my biz page @hourglassfashionworld
-> Come let me pimp your waist this 2020 “*
+> <!--EndFragment-->
 
 Watch the video below\
 <https://www.instagram.com/p/B609dxPBjpD/?igshid=ssd99b9j7sqw>
