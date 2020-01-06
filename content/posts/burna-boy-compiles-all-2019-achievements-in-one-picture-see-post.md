@@ -20,12 +20,6 @@ The singer has now thought of bringing all these back in a single post to help N
 >
 > [](https://twitter.com/burnaboy/status/1214141644720738306)
 >
-> ![🦍](https://abs.twimg.com/emoji/v2/72x72/1f98d.png "Gorilla")
->
 > [![View image on Twitter](https://pbs.twimg.com/media/ENl_YbPUwAY8TUb?format=jpg&name=small "View image on Twitter")](https://twitter.com/burnaboy/status/1214141644720738306/photo/1)
-
-
-
-
 
 <!--EndFragment-->
