@@ -55,12 +55,6 @@ export default {
       id: 'netlify-identity-widget-script'
     },
     {
-      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
-      'data-n-head': false,
-      async: true,
-      'data-ad-client': 'ca-pub-8395629923299240'
-    },
-    {
       src: 'https://kit.fontawesome.com/53b0d08d75.js', crossorigin: 'anonymous'
     },
     {
