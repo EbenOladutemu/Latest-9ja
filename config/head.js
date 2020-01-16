@@ -46,10 +46,6 @@ export default {
   ],
   script: [
     {
-      src: 'https://www.googletagmanager.com/gtag/js?id=UA-154479113-1',
-      async: true
-    },
-    {
       src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
       defer: true,
       id: 'netlify-identity-widget-script'
