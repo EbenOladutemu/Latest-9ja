@@ -1,6 +1,6 @@
 ---
 title: Videos
 name: Videos
-image: /uploads/movies.jpg
+image: uploads/video-hero.jpg
 ---
 
