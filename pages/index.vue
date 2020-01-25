@@ -1,14 +1,14 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <!-- <site-hero :title="title" :subtitle="subtitle" :image="featureImage" class="site-hero"> -->
+    <site-hero :title="title" :subtitle="subtitle" :image="featureImage" class="site-hero"> -->
     <!-- <button
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
       >
         Subscribe To Our Newsletter
       </button> -->
-    <!-- </site-hero> -->
-    <div class="container">
+    </site-hero>
+    <!-- <div class="container">
       <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel" style="padding-top: 0px">
         <div class="carousel-inner">
           <div class="carousel-item active" data-interval="10000">
@@ -30,7 +30,7 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
-    </div>
+    </div> -->
     <main-section theme="one-column" style="margin-top: 0px">
       <template v-slot:default>
         <!-- All Posts -->

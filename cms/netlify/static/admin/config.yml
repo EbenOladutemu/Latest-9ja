@@ -31,3 +31,11 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
+  - name: "tags"
+    label: "Tag"
+    folder: "content/tags"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
