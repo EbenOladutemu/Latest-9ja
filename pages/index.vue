@@ -50,14 +50,14 @@
 <script>
 import { mapState } from 'vuex'
 import { setPageData } from '../helper'
-import Slider from '~/components/grids/Slider'
+// import Slider from '~/components/grids/Slider'
 // import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 
 export default {
   name: 'HomePage',
-  components: {
-    'slider-card': Slider
-  },
+  // components: {
+  //   'slider-card': Slider
+  // },
   head() {
     return {
       title: `Home | ${this.$siteConfig.siteName}`
