@@ -5,8 +5,8 @@ category:
   - Music
 author: Eben
 date: 2020-01-25T18:02:19.427Z
-featureImage: uploads/Davolee-Pepper-585x585-1.jpg
-file: uploads/Davolee-Pepper.mp3
+featureImage: uploads/Davolee-Pepper.jpg
+file: ''
 ---
 Talented Nigerian rapper, **Davolee** is about to give us *hot hot* this year with a new hot single titled “**Pepper**”.
 
