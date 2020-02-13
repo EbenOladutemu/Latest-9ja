@@ -2,7 +2,7 @@
 title: '2023: Tinubu Meets President Buhari In Abuja (Photos)'
 category:
   - Gists
-author: Eben
+author: Dj Gsaws
 date: 2020-01-07T19:08:27.423Z
 featureImage: /uploads/tinubu-buhari.jpg
 ---
