@@ -5,7 +5,7 @@ title: >-
 category:
   - Gists
 author: Dj Gsaws
-date: 2020-02-15T17:31:30.094Z
+date: 02-15-2020
 featureImage: uploads/Naira-Marley-Puta-Snippet-mp3-image.jpg
 ---
 ## **A Lagos church has labeled the “Marlian Spirit” a deadly virus and is even offering to heal those affected.**
