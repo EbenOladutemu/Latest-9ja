@@ -6,7 +6,7 @@ category:
   - Gists
   - Sport
 author: Dj Gsaws
-date: 02-26-2020
+date: 02-27-2020
 featureImage: uploads/pogba.jpg
 ---
 ![](https://tooxclusive.com/wp-content/uploads/2020/02/pogba.jpg)
