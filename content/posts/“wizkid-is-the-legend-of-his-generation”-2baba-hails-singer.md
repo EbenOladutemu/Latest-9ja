@@ -3,7 +3,7 @@ title: “Wizkid Is The Legend Of His Generation”- 2baba Hails Singer
 category:
   - Gists
 author: Dj Gsaws
-date: 02-25-2020
+date: 2020-02-24T23:00:00.000Z
 featureImage: uploads/2baba-wizkid.jpg
 ---
 ## **Nigerian award-winning singer, 2baba has declared Wizkid the legend of his generation.**
