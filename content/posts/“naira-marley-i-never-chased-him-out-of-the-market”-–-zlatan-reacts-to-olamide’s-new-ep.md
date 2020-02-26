@@ -5,12 +5,12 @@ title: >-
 category:
   - Gists
 author: Dj Gsaws
-date: 2020-02-11T16:36:25.279Z
+date: 02-11-2020
 featureImage: uploads/olamide-and-zlatan-ibile.jpg
 ---
-## **Sensational singer,[Zlatan](https://tooxclusive.com/tag/zlatan/)has slammed those saying he and[Naira Marley](https://tooxclusive.com/tag/naira-marley/)chased[Olamide](https://tooxclusive.com/tag/olamide/)of the music scene.**
+## **Sensational singer, Zlatan has slammed those saying he and Naira Marley chased Olamide off the music scene.**
 
-Naira Marley and[Zlatan](https://tooxclusive.com/tag/zlatan/)made massive waves last year and fans speculated that they have dethroned the original king of the streets, Olamide in just a short time. Olamide also had a good year as many of his singles turned out to be fairly successful but none of them really hit it big and this made fans strip him of his position.
+Naira Marley and Zlatan made massive waves last year and fans speculated that they have dethroned the original king of the streets, Olamide in just a short time. Olamide also had a good year as many of his singles turned out to be fairly successful but none of them really hit it big and this made fans strip him of his position.
 
 However, in reaction to Olamide’s newly released EP, “999,” the “Bolanle” crooner called out those stating that he and the “Soapy” singer chased Olamide out of the music scene. He went on to state that those same fans are the ones calling the rapper the greatest after he released his 9th EP.
 
@@ -33,8 +33,6 @@ See his tweets below:
 > [Twitter Ads info and privacy](https://support.twitter.com/articles/20175256 "Twitter Ads info and privacy")
 
 1,257 people are talking about this
-
-
 
 > [![](https://pbs.twimg.com/profile_images/1188919100816408582/wvYc2Rvs_bigger.jpg)](https://twitter.com/Zlatan_Ibile)
 >
